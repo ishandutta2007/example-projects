@@ -72,3 +72,10 @@ For more information on the Web API configuration syntax, check out the [Claudia
 ## Prerequisites
 
 AWS Lambda currently runs Node.js version 4.3.2 (optionally, you can downgrade to 0.10.36 by using `--runtime` when [creating the function](https://github.com/claudiajs/claudia/blob/master/docs/create.md)). It's best to use that version for testing. To get started, make sure your credentials are configured. See the [ClaudiaJS Getting Started Guide](https://github.com/claudiajs/claudia/blob/master/getting_started.md) for more information.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
